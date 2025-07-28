@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, fellow coders! I'm Rosy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="waving hand"/></h1>
 <h3 align="center">🚀 Aspiring Python Developer & Machine Learning Enthusiast</h3>
-<img align="right" alt="coding" width="275" height= "275"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<!-- <img align="right" alt="coding" width="275" height= "275"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"> -->
 
 ## 👩‍💻 About Me
 
@@ -12,7 +12,7 @@ Welcome to my corner of the tech universe! I am a dedicated Technology Support S
 - 🎵 When I'm not coding, you can find me immersed in music or enjoying animated shows. I love gaming and staying updated with the latest tech trends.
 - 🤝 I thrive on connecting with like-minded individuals at meetups, sharing ideas, and exploring new cultures. Building a network of passionate tech enthusiasts is one of my greatest joys!
 
-## 🛠️ Skills & Tools
+<!-- ## 🛠️ Skills & Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -48,7 +48,7 @@ Welcome to my corner of the tech universe! I am a dedicated Technology Support S
   <a href=https://www.figma.com/ target=_blank rel=noreferrer>
     <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white width=80/>
   </a>
-</p>
+</p> -->
 
 ## 🤝 Let's Connect!
 I'm always excited to meet new people and collaborate on projects! Feel free to connect with me on [LinkedIn](https://au.linkedin.com/in/rosydhakal) or join me at local tech meetups. Let's inspire each other!
