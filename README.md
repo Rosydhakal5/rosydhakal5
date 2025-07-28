@@ -4,9 +4,7 @@
 
 ## 👩‍💻 About Me
 
-Welcome to my corner of the tech universe! I am a dedicated Technology Support Specialist with a Bachelor’s degree in Information Technology. My journey in tech began with web development, where I honed my skills and discovered my passion for coding. I’ve completed internships at two different organizations, gaining valuable experience that has fueled my desire to dive deeper into Python and machine learning.
-
-## 🌟 My Journey
+Welcome to my corner of the tech universe! I am a dedicated Technology Support Specialist with a Bachelor’s degree in Information Technology. My journey in tech began with web development, where I honed my skills and discovered my passion for coding.
 
 - 🎓 As the only girl in my Computer Science class, I took the initiative to encourage other tech-minded girls to join. Through my efforts, we built a supportive community of six female developers. This experience not only highlighted the importance of diversity in technology but also inspired future generations to embrace a more inclusive environment.
 - 🎵 When I'm not coding, you can find me immersed in music or enjoying animated shows. I love gaming and staying updated with the latest tech trends.
