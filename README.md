@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, fellow coders! I'm Rosy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="waving hand"/></h1>
+<h1 align="center">Greetings, fellow coders! I'm Rosy Dhakal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="waving hand"/></h1>
 <h3 align="center">🚀 Aspiring Python Developer & Machine Learning Enthusiast</h3>
 <!-- <img align="right" alt="coding" width="275" height= "275"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"> -->
 
